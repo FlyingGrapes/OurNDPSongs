@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">L11 OurNDPSongs</string>
+    <string-array name="spinnerYear">
+    </string-array>
+</resources>
